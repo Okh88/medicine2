@@ -4,9 +4,7 @@ import { Welcome1 } from '@/Screens/Welcome1';
 import  Welcome2  from '@/Screens/Welcome2';
 import  Welcome3  from '@/Screens/Welcome3';
 import { Home } from '@/Screens/Home'
-
 import  Addmedicine from '@/Screens/Addmedicine';
-
 import { DataProvider } from '@/components/Datactext'; // Import your DataProvider
 
 const Stack = createNativeStackNavigator();
